@@ -25,4 +25,7 @@
     plt.xlabel("Variable x")
     plt.ylabel("$x**(-1/2*(m/s)**2)}$")
     plt.show()
-![](quiz11.jpg)
+
+  
+  
+  ![](quiz11.jpg)
