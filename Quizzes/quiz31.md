@@ -1,4 +1,5 @@
-#.  from matplotlib import pyplot as plt
+#.  
+    from matplotlib import pyplot as plt
     import requests
     import numpy as np
     from numpy import polyfit
